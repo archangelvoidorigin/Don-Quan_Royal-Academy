@@ -35,11 +35,13 @@ course_id: "COURSE_001"
 - The course philosophy: "think with AI, not just about AI"
 - Claude Corps is the application target shaping all documentation
 
-**Covered:**
-- Lesson 02: "Why do we need AI Fluency?" page captured
-- Distinction clarified: literal "Course Overview" (curriculum tree dashboard) vs Lesson 01 "Introduction to AI Fluency"
-- Chapter index rewritten to show all 15 lessons granularly
-
+**Progress:**
+- Lesson 02 page + transcript captured (Why do we need AI Fluency?)
+- Lesson 03 page captured (The 4D Framework)
+- Folder restructured: chapter-as-parent with local-numbered lesson subfolders
+- Chapter hierarchy fully mapped for all 15 lessons in index
+- Restructured RAW folders to match sidebar hierarchy
+- Corrected Course Overview vs Lesson 01 naming confusion
 **Captured:**
 - `RAW/00_course-overview-curriculum/01_curriculum_tree.md`
 - `RAW/00_course-overview-curriculum/02_about_this_course.md`
