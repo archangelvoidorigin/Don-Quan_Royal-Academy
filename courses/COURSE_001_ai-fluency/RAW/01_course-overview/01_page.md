@@ -1,17 +1,18 @@
 ---
-title: "Course Overview — AI Fluency: Framework & Foundations"
+title: "Lesson 01 — Introduction to AI Fluency (Page)"
 source_date: "2026-07-09"
 source_type: page_copy
 source_url: "https://anthropic.skilljar.com/ai-fluency-framework-foundations/291863"
-chapter: "01-course-overview"
+chapter: "01-introduction-to-ai-fluency"
 entry_ref: "COURSE_001"
+lesson: "01"
 status: captured
-tags: [course-overview, introduction, ai-fluency, 4d-framework]
+tags: [lesson-01, introduction, ai-fluency, 4d-framework]
 ---
 
-# Course Overview
+# Lesson 01 — Introduction to AI Fluency
 
-**Estimated time for this module:** 10-15 minutes
+**Estimated time for this lesson:** 10-15 minutes
 
 **By the end of this lesson, you will be able to:**
 - Understand the purpose and structure of the course

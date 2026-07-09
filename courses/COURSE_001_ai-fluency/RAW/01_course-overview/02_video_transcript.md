@@ -1,16 +1,17 @@
 ---
-title: "Course Overview — Introduction Video Transcript"
+title: "Lesson 01 — Introduction to AI Fluency (Video Transcript)"
 source_date: "2026-07-09"
 source_type: transcript
 source_url: "https://anthropic.skilljar.com/ai-fluency-framework-foundations/291863"
-chapter: "01-course-overview"
+chapter: "01-introduction-to-ai-fluency"
 entry_ref: "COURSE_001"
+lesson: "01"
 status: captured
-tags: [transcript, course-overview, joe-feller, rick-dakan, drew-bent, maggie-vo]
+tags: [transcript, lesson-01, joe-feller, rick-dakan, drew-bent, maggie-vo]
 video_duration: "~4 minutes"
 ---
 
-# Course Overview — Video Transcript
+# Lesson 01 — Introduction to AI Fluency (Video Transcript)
 
 **[00:00] Joe Feller:**
 I'm Joe Feller. I'm a professor at the Cork University Business School.
