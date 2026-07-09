@@ -17,7 +17,7 @@ tags: [meta, chapter-index, course-001]
 | 01 | Introduction to AI Fluency | — | `01_introduction-to-ai-fluency/` | complete |
 | 02 | Why do we need AI Fluency? | The AI Fluency Framework | `02_the-ai-fluency-framework/01_why-do-we-need-ai-fluency/` | complete |
 | 03 | The 4D Framework | The AI Fluency Framework | `02_the-ai-fluency-framework/02_4d-framework/` | complete |
-| 04 | Generative AI fundamentals | Deep Dive 1: Generative AI | `03_deepdive-1-generative-ai/01_fundamentals/` | pending |
+| 04 | Generative AI fundamentals | Deep Dive 1: Generative AI | `03_deepdive-1-generative-ai/01_fundamentals/` | complete |
 | 05 | Capabilities & limitations | Deep Dive 1: Generative AI | `03_deepdive-1-generative-ai/02_capabilities-limitations/` | pending |
 | 06 | A closer look at Delegation | Delegation | `04_delegation/01_closer-look/` | pending |
 | 07 | Project planning and Delegation | Delegation | `04_delegation/02_project-planning/` | pending |
