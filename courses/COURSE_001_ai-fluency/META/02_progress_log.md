@@ -35,10 +35,22 @@ course_id: "COURSE_001"
 - The course philosophy: "think with AI, not just about AI"
 - Claude Corps is the application target shaping all documentation
 
+**Covered:**
+- Lesson 02: "Why do we need AI Fluency?" page captured
+- Distinction clarified: literal "Course Overview" (curriculum tree dashboard) vs Lesson 01 "Introduction to AI Fluency"
+- Chapter index rewritten to show all 15 lessons granularly
+
+**Captured:**
+- `RAW/00_course-overview-curriculum/01_curriculum_tree.md`
+- `RAW/00_course-overview-curriculum/02_about_this_course.md`
+- `RAW/02_why-do-we-need-ai-fluency/01_page.md`
+
+**Learned:**
+- AI Fluency = practical skills + knowledge + insights + values → effective, efficient, ethical, safe AI interaction
+- Three collaboration modes introduced: Automation, Augmentation, Agency
+
 **Next:**
-- Chapter 02: Introduction to AI Fluency (Why do we need it? + The 4D Framework)
-- Continue capturing RAW pages as provided
-- Begin forging notes after first few chapters captured
+- Capture Lesson 03: "The 4D Framework" page
 
 ---
 

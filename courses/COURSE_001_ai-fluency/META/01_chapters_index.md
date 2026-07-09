@@ -17,7 +17,7 @@ updated: "2026-07-09"
 | 00 | Course Overview (curriculum tree) | page | ✅ | — | complete |
 | 00 | About This Course | page | ✅ | — | complete |
 | 01 | Introduction to AI Fluency | lesson | ✅ | ✅ | complete |
-| 02 | The AI Fluency Framework — Why do we need AI Fluency? | lesson | ⬜ | ⬜ | pending |
+| 02 | The AI Fluency Framework — Why do we need AI Fluency? | lesson | ✅ | ⬜ | complete |
 | 03 | The AI Fluency Framework — The 4D Framework | lesson | ⬜ | ⬜ | pending |
 | 04 | Generative AI — Generative AI fundamentals | lesson | ⬜ | ⬜ | pending |
 | 05 | Generative AI — Capabilities & limitations | lesson | ⬜ | ⬜ | pending |
